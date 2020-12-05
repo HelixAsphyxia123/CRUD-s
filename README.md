@@ -58,5 +58,5 @@ Free MySQL Hosting para la base de datos remota.
 ![](figures/Manejador.png)
 ![](figures/Buscar.png)
 ![](figures/Eliminar.png)
-![](figures/Guardar.png)
+![](figures/Guardar..png)
 ![](figures/Modificar.png)
