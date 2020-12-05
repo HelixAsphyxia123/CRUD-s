@@ -35,6 +35,10 @@ https://dev.mysql.com/downloads/connector/j/
 
 5.- En el apartado de buscar, se muestra una tabla de todos los registros y una opcion para poder buscar a nuestros usuarios a traves de un boton.
 
+# Funcionamiento.
+
+https://flipgrid.com/19241f34
+
 # Agradecimientos.
 
  A nuestro docente por alentarnos, ayudarnos en algunas dudads y a mi por esforzarme.
