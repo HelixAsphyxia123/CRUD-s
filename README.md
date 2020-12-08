@@ -37,7 +37,7 @@ https://dev.mysql.com/downloads/connector/j/
 
 # Funcionamiento.
 
-https://flipgrid.com/19241f34
+https://flipgrid.com/e62381c6
 
 # Agradecimientos.
 
